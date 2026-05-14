@@ -137,6 +137,7 @@ This project was developed to provide a simple and accessible digital healthcare
 * Pediatrician consultation
 * AI-powered recommendations
 * Dark mode support
+* Multi-language support
 
 
 
