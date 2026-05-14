@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159187493734",
+    "project_id": "intense-agency-492211-r3",
+    "storage_bucket": "intense-agency-492211-r3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159187493734:android:1cc8a54aac51d25d9d5ea7",
+        "android_client_info": {
+          "package_name": "com.example.shishu_sneh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159187493734-r9m85c0tlkcv2qpjbudohl4mr914vepq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJcROUjeOXUssk-9YNrSpdqExRHt--yxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159187493734-r9m85c0tlkcv2qpjbudohl4mr914vepq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
